@@ -1,0 +1,3 @@
+[submodule "AddProjectMacro"]
+	path = CMake/AddProjectMacro
+	url = https://github.com/Peter-Schenkels/AddProjectMacro.git
